@@ -6,3 +6,15 @@ body {
     blackground-color:  #305050;
     color: white; 
 }
+body{
+    background-color: #305050;
+    color: white
+    font-family:roboto;
+    text-align: center;
+}
+header{
+    border-bottom: 1px solid grey;
+}
+footer{
+    border-top: 1px solid grey;
+}
